@@ -5,11 +5,6 @@
   <link rel="stylesheet" href="style.css">  
 </head>
 <body>
-<section>
-  <header>
-    <img src="https://unavatar.now.sh/github/rafaballerini" />
-  </header>
-  <h1>Rafaella Ballerini</h1>
 
   <div>
     <h2>Insígnias da imersao.dev</h2>
